@@ -1,5 +1,5 @@
 import numpy as np
-from models import KMeanClusters
+from .models import KMeanClusters
 from model_selection import train_test_split
 import matplotlib.pyplot as plt
 
